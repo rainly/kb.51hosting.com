@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -125,3 +125,21 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+custom:
+    category:
+        clientarea: 客户中心
+        vps: 云主机
+        server: 独立服务器
+        vh: 虚拟主机 
+    categories:
+      - name:  clientarea
+        title: 客户中心
+
+      - name:  vps
+        title: 云主机
+      
+      - name:   server
+        title:  独立服务器
+      
+      - name:   vh
+        title:  虚拟主机
