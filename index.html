@@ -4,15 +4,24 @@ title: 五域通达知识库
 tagline: 
 ---
 {% include JB/setup %}
-<h3>常见问题</h3>
-{% assign list = site.tags.faq %}
-{% assign preview = false %}
-{% include list.tpl %}
-
-<h3>新知识库文章</h3>
-{% assign list = site.posts %}
-{% assign preview = false %}
-{% include list.tpl %}
+<div class="row">
+  <div class="span4">
+    <h3>欢迎</h3>
+    <p>欢迎访问五域通达知识库。如果您不知道从哪开始，请看常见问题。请善用浏览器搜索功能(Ctrl+F或者Command+F)。如果您看完了知识库还无法找到问题的答案，请到<a href="http://portal.51hosting.com">客户中心</a>向我们提交工单。</p>
+  </div>
+  <div class="span4">
+    <h3>常见问题</h3>
+    {% assign list = site.tags.faq %}
+    {% assign preview = false %}
+    {% include list.tpl %}
+  </div>
+  <div class="span4">
+    <h3>新知识库文章</h3>
+    {% assign list = site.posts %}
+    {% assign preview = false %}
+    {% include list.tpl %}
+  </div>
+</div>
 
 
 
