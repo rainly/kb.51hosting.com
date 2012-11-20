@@ -1,13 +1,13 @@
 ---
 layout: post
-title: windows2008下分区大小扩展
+title: Windows 2008下分区大小扩展
 categories: [server]
-tags: [faq, windows2008,分区]
+tags: [faq, Windows 2008,分区]
 ---
 
 
 
-在windows2008下支持分区大小扩展：
+在Windows 2008下支持分区大小扩展：
 此方法必须保证在磁盘管理中，c盘后面有可用分区。
     
 ###    1.磁盘管理

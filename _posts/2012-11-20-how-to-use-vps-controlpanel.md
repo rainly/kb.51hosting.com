@@ -17,7 +17,7 @@ tags: [faq]
 
 ![][2]
 
-   您可以点击VNC远程登录到windows云主机。（使用VNC需要在本地安装java虚拟机 官方地址http://www.java.com/zh_CN/）
+   您可以点击VNC远程登录到Windows云主机。（使用VNC需要在本地安装java虚拟机 官方地址http://www.java.com/zh_CN/）
 
    您可以点击Sreial Control远程登录到linux云主机。
 
