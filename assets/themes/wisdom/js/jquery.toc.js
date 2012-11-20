@@ -110,7 +110,7 @@ jQuery.fn.toc.defaults = {
   smoothScrolling: true,
   prefix: 'toc',
   onHighlight: function() {},
-  highlightOnScroll: true,
+  highlightOnScroll: false,
   highlightOffset: 100,
   anchorName: function(i, heading, prefix) {
     return prefix+i;
