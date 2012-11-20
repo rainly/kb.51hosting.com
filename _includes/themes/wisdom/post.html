@@ -39,3 +39,17 @@
   {% include JB/comments %}
   </div>
 </div>
+<script>
+$(function(){
+  $('#toc').toc({ 
+    'smoothScrolling': false,
+    'selectors': 'h2,h3'
+  });
+  $('#toc').affix({
+        offset: {
+          top: 210
+        , bottom: 270
+        }
+      });
+});
+</script>
