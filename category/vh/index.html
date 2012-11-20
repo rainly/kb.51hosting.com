@@ -3,7 +3,17 @@ layout: page
 title:  虚拟主机
 group: navigation
 ---
-
-{% assign list = site.categories.vh %}
-{% assign preview = false %}
-{% include list.tpl %}
+<div class="row">
+  <div class="span6">
+    <h3>Plesk(Windows)虚拟主机</h3>
+    {% assign list = site.tags.plesk %}
+    {% assign preview = false %}
+    {% include list.tpl %}
+  </div>
+  <div class="span6">
+    <h3>cPanel(Linux)虚拟主机</h3>
+    {% assign list = site.tags.cpanel %}
+    {% assign preview = false %}
+    {% include list.tpl %}
+  </div>
+</div>
