@@ -4,7 +4,7 @@ title: 如何创建FTP账户
 categories: [vh]
 tags: [plesk, FTP]
 ---
-###如何创建FTP账户
+###创建FTP账户
 
 * 1.点击网站与域名
 
@@ -23,7 +23,7 @@ tags: [plesk, FTP]
 
 ![](http://voga.emagineconcept.com/caicai/plesk11/FTPaccountA4.jpg)
 
-###如何编辑,删除FTP账户
+###编辑和删除FTP账户
 
 * 1.点击要编辑的FTP账户名称
 

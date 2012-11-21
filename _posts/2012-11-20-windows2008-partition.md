@@ -2,13 +2,13 @@
 layout: post
 title: Windows 2008下分区大小扩展
 categories: [server]
-tags: [faq, Windows 2008,分区]
+tags: [faq, Win2008, 扩展]
 ---
 
 
 
 在Windows 2008下支持分区大小扩展：
-此方法必须保证在磁盘管理中，c盘后面有可用分区。
+此方法必须保证在磁盘管理中，c盘后面有可用磁盘。
     
 ###    1.磁盘管理
 点击开始-运行，输入diskmgmt.msc
@@ -23,7 +23,7 @@ tags: [faq, Windows 2008,分区]
 
 ![][3]
 
-###  3.下一步。
+###  3.下一步
 
 ![][4]
 
@@ -32,7 +32,7 @@ tags: [faq, Windows 2008,分区]
 
 ![][5]
 
-###  5.完成。
+###  5.完成
 
 ![][6]
 

@@ -3,10 +3,13 @@
 layout: post
 title: 如何用VNC第一次登陆到Windows系统云主机
 categories: [vps]
-tags: [faq,vnc]
+tags: [faq, vnc]
 ---
-##处于对服务器的安全考虑，Windows2003系统的云主机默认开机不开启RDP远程桌面服务的。 那么我们第一次如何登陆服务器呢？
-###操作步骤如下：
+处于对服务器的安全考虑，Windows2003系统的云主机默认开机不开启RDP远程桌面服务的。 那么我们第一次如何登陆服务器呢？
+
+操作步骤如下：
+
+###登陆客户中心
 
 *    1.[登陆到客户中心](http://portal.51hosting.com)
 
