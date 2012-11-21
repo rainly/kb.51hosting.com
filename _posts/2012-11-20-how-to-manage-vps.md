@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 如何登录51Hosting客户中心管理我的云主机
-categories: [vps,clientarea]
-tags: [faq,云主机管理]
+categories: [vps, clientarea]
+tags: [faq, 云主机管理]
 ---
 当您订购了我们的云主机后，您会获得一个客户中心登录，用来管理您所购买的服务。可按照下列方法进行操作：
 

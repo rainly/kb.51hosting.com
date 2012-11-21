@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何升级云主机套餐
-categories: [vps,clientarea]
+categories: [vps, clientarea]
 tags: [套餐升级]
 ---
 

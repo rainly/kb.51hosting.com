@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 到期终止云主机服务申请流程
-categories: [vps,clientarea]
+categories: [vps, clientarea]
 tags: [faq, 终止]
 ---
 

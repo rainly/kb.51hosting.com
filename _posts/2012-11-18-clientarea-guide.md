@@ -6,7 +6,6 @@ tags: [faq, 教程]
 ---
 **1. 登录51Hosting网站**
 
-
 ![][1]      
 
 登录http://www.51hosting.com
