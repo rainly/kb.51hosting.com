@@ -19,12 +19,12 @@ tags: [faq, vnc]
 
 ![](http://ww1.sinaimg.cn/large/a74e55b4jw1dz9g4ra5wgj.jpg)
 
-*    3.点击右侧的查看详细资料。
+*    3.点击右侧的查看详情。
 
 ![](http://ww1.sinaimg.cn/large/a74ecc4cjw1dz9g613f2hj.jpg)
 
 ###安装java使用VNC
-*    4.点击进去后在页面下边右侧有个VNC。点击即用VNC远程登陆服务器.使用VNC默认需要安装java。
+*    4.点击进去后在页面下边右侧有个VNC，点击即用VNC远程登陆服务器.使用VNC默认需要安装java。
 下载地址(http://www.java.com/zh_CN）
 
 ![](http://ww4.sinaimg.cn/large/a74e55b4jw1dz9gdlu8hjj.jpg)
