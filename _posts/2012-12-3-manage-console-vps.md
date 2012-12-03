@@ -1,19 +1,21 @@
 ---
 layout: post
-title: 如何使用Serial Console管理linux云主机 
+title: 如何使用Serial Console管理Linux云主机 
 categories: [vps]
 tags: [vps, console]
 ---
 
-####如何使用Serial Console管理linux云主机
+####如何使用Serial Console管理Linux云主机
 
 ###登录到客户中心
+我们通常使用SSH去远程登录到Linux云主机上去管理服务器。那么既然如此，为什么还要使用Serial Console功能呢？答案很简单，Serial Console功能能帮助我们在无法正常使用SSH的时候也可以登录到服务器进行管理。 操作步骤如下：
+
 
 * 1.[登陆到客户中心](http://portal.51hosting.com)
 
 ![](http://ww4.sinaimg.cn/large/a74e55b4jw1dz9lo1y495j.jpg)
 
-* 2.在产品服务-我的产品与服务找到需要管理的lunix云主机。
+* 2.在产品服务-我的产品与服务找到需要管理的Linux云主机。
 
 ![](http://ww1.sinaimg.cn/large/a74e55b4jw1dz9g4ra5wgj.jpg)
 
