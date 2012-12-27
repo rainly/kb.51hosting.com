@@ -30,7 +30,7 @@ tags: [注册]
 
 **3. 客户的个人资料，产品服务，域名，账单，相关支持及提交工单等。**
 
-注册成功后，页面即跳转到您的客户中心。您可以在客户中心查看相关栏目。1.[更新您的详细情况]()，2.[产品服务]()，3.[域名]()，4.账单，5.[支持]()
+注册成功后，页面即跳转到您的客户中心。您可以在客户中心查看相关栏目。1.[更新您的详细情况](http://kb.51hosting.com/clientarea/2012/12/06/clientarea-add-subaccount/)，2.[产品服务]()，3.[域名]()，4.账单，5.[支持]()
 ，6.[递交工单](http://portal.51hosting.com/submitticket.php)，7.[推介计划]()。
 
 ![3](http://ww4.sinaimg.cn/large/a74ecc4cjw1dz4vwxtxrpj.jpg)     

@@ -21,5 +21,5 @@ tags: [重启]
 
 *   4.点击reboot按钮即可重启云主机。
 
-![](http://ww1.sinaimg.cn/large/a74eed94jw1dz9q49kwzvj.jpg)
+![](http://ww4.sinaimg.cn/large/a74ecc4cjw1dzpsr5r629j.jpg)
 
