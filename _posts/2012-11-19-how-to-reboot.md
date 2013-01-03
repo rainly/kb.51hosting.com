@@ -6,7 +6,7 @@ tags: [faq, 远程重启]
 ---
 
 ##远程重启
-tags:1.登陆  [客户中心](http://portal.51hosting.com/clientarea.php)
+* 1.登陆 [客户中心](http://portal.51hosting.com/clientarea.php)
 
 ![](http://ww2.sinaimg.cn/large/a74e55b4jw1dzas3o3a7yj.jpg)
 
@@ -26,8 +26,3 @@ tags:1.登陆  [客户中心](http://portal.51hosting.com/clientarea.php)
 
 ![](http://voga.emagineconcept.com/knowledgebase/rebootqueren.jpg)
 
-[1]:http://voga.emagineconcept.com/caicai/plesk11/b1.jpg
-[2]:http://voga.emagineconcept.com/caicai/plesk11/b2.jpg
-[3]:http://voga.emagineconcept.com/caicai/plesk11/b3.jpg
-[4]:http://voga.emagineconcept.com/knowledgebase/rebootbutton.jpg
-[5]:http://voga.emagineconcept.com/knowledgebase/rebootqueren.jpg
