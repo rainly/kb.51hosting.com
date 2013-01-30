@@ -26,3 +26,4 @@ tags: [faq, 远程重启]
 
 ![](http://voga.emagineconcept.com/knowledgebase/rebootqueren.jpg)
 
+* 如果您的服务器安装的Esxi系统， 您请首先尝试[登陆Esxi服务器](http://kb.51hosting.com/server/2012/11/19/how-to-use-esxi/)，然后从Esxi系统的控制台中进入系统。

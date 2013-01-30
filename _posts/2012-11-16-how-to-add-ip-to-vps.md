@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 如何给云主机增加IP地址
+title: 如何给云主机增加IP地址或者取消已增加的IP地址
 categories: [vps, clientarea]
 tags: [faq, ip]
 ---
-通常情况每个云主机仅仅分配一个ip地址，但是如果你如果希望同一个云主机上的两个网站分别用不同的ip地址，你就需要更多IP地址。由于IPv4资源紧张，每个云主机最多能再申请一个ip地址，每个ip地址增加月租7元。
+通常情况每个云主机仅仅分配一个ip地址，但是如果你如果希望同一个云主机上的两个网站分别用不同的ip地址，你就需要更多IP地址。由于IPv4资源紧张，每个云主机最多能再申请一个ip地址，每个ip地址增加月租7元。您可以通过如下操作增加IP地址或者取消已经增加了的IP地址。
 
 ##客户中心操作
 
@@ -24,7 +24,7 @@ tags: [faq, ip]
 ![升级降级选项](http://ww4.sinaimg.cn/large/a74e55b4jw1dywz1lk6i5j.jpg)
 
 
-*  IP栏 下拉框选择 "增加一个IP地址 ￥7RMB/月", 然后点继续
+*  IP栏 下拉框选择 "增加一个IP地址 ￥7RMB/月",或者"不增加IP地址" 然后点继续
 
 ![添加ip](http://voga.emagineconcept.com/caicai/knowledgebase/addIP0.jpg)
 
