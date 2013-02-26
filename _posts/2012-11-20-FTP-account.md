@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何创建，编辑，删除FTP账户
+title: Plesk中如何创建，编辑，删除FTP账户
 categories: [vh]
 tags: [plesk, FTP]
 ---
